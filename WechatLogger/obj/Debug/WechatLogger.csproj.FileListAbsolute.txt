@@ -1,0 +1,10 @@
+C:\Users\85751\source\repos\WechatLogger\WechatLogger\bin\Debug\WechatLogger.exe.config
+C:\Users\85751\source\repos\WechatLogger\WechatLogger\bin\Debug\WechatLogger.exe
+C:\Users\85751\source\repos\WechatLogger\WechatLogger\bin\Debug\WechatLogger.pdb
+C:\Users\85751\source\repos\WechatLogger\WechatLogger\obj\Debug\WechatLogger.csprojAssemblyReference.cache
+C:\Users\85751\source\repos\WechatLogger\WechatLogger\obj\Debug\WechatLogger.Form1.resources
+C:\Users\85751\source\repos\WechatLogger\WechatLogger\obj\Debug\WechatLogger.Properties.Resources.resources
+C:\Users\85751\source\repos\WechatLogger\WechatLogger\obj\Debug\WechatLogger.csproj.GenerateResource.cache
+C:\Users\85751\source\repos\WechatLogger\WechatLogger\obj\Debug\WechatLogger.csproj.CoreCompileInputs.cache
+C:\Users\85751\source\repos\WechatLogger\WechatLogger\obj\Debug\WechatLogger.exe
+C:\Users\85751\source\repos\WechatLogger\WechatLogger\obj\Debug\WechatLogger.pdb
